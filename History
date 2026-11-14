@@ -1,0 +1,10 @@
+
+id|senderName|senderEmail|replyTo|hour|subject|body|label
+H001|Prof. Smith|jsmith@ncat.edu|jsmith@ncat.edu|9|Welcome|Welcome to the course, TAs. Our first meeting is Monday.|LEGIT
+H002|Prof. Smith|jsmith@ncat.edu|jsmith@ncat.edu|13|Lab 1|Please post the Lab 1 solutions after the deadline.|LEGIT
+H003|Prof. Smith|jsmith@ncat.edu|jsmith@ncat.edu|16|Exam room|The midterm will be in McNair Hall room 202.|LEGIT
+H004|Prof. Smith|jsmith@ncat.edu|jsmith@ncat.edu|11|Grading|Thanks for the quick grading on Lab 3, nice work.|LEGIT
+H005|IT Help Desk|helpdesk@ncat.edu|helpdesk@ncat.edu|8|Wi-Fi update|Campus Wi-Fi will be upgraded this weekend.|LEGIT
+H006|IT Help Desk|helpdesk@ncat.edu|helpdesk@ncat.edu|10|New printers|New printers are installed in the library.|LEGIT
+H007|Dana Lee|dlee@ncat.edu|dlee@ncat.edu|15|Notes|Here are my notes from class today.|LEGIT
+H008|Dana Lee|dlee@ncat.edu|dlee@ncat.edu|19|lol|did u finish the hw yet? i'm so lost on #3|LEGIT
