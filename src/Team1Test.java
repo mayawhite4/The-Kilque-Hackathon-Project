@@ -6,8 +6,8 @@ import java.util.ArrayList;
  */
 public class Team1Test {
     public static void main(String[] args) throws Exception {
-        ArrayList<Message> history = MessageLoader.load("data/history.txt");
-        ArrayList<Message> messages = MessageLoader.load("data/messages.txt");
+        ArrayList<Message> history = MessageLoader.load("History.txt");
+        ArrayList<Message> messages = MessageLoader.load("Message.txt");
 
         ImpersonationCheck checker = new ImpersonationCheck(history);
 

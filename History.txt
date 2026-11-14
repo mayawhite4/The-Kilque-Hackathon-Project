@@ -1,4 +1,3 @@
-
 id|senderName|senderEmail|replyTo|hour|subject|body|label
 H001|Prof. Smith|jsmith@ncat.edu|jsmith@ncat.edu|9|Welcome|Welcome to the course, TAs. Our first meeting is Monday.|LEGIT
 H002|Prof. Smith|jsmith@ncat.edu|jsmith@ncat.edu|13|Lab 1|Please post the Lab 1 solutions after the deadline.|LEGIT

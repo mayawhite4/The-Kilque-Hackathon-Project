@@ -27,6 +27,11 @@ public class MessageLoader {
                 continue;
             }
 
+            // Skip any header line, even if it's not the first line
+            if (line.startsWith("id|")) {
+                continue;
+            }
+
             // "\\|" means split on the | character
             String[] parts = line.split("\\|");
 
