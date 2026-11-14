@@ -1,10 +1,7 @@
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
-/**
- * TrustCheck - Step 1: load the test messages and print them.
- * Later steps will run each message through the three checks.
- */
+/* Later steps will run each message through the three checks.*/
 public class Main {
 
     public static void main(String[] args) {
@@ -26,4 +23,5 @@ public class Main {
             System.out.println("   Label: " + m.getLabel());
         }
     }
+
 }
