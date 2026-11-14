@@ -1,0 +1,33 @@
+================ TrustCheck Validation Report ================
+Test set: 120 synthetic messages (60 legit, 60 attacks)
+
+                                     TrustCheck   Keyword filter
+Detection rate (all attacks)       75.0% (45/60)    45.0% (27/60)
+   impersonation                   80.0% (16/20)    60.0% (12/20)
+   phishing                        70.0% (14/20)    60.0% (12/20)
+   injection                       75.0% (15/20)     15.0% (3/20)
+False-positive rate (all legit)     1.7% (1/60)    20.0% (12/60)
+   urgent-but-real messages        10.0% (1/10)   100.0% (10/10)
+Fairness: casual/typo flagged       0.0% (0/10)      0.0% (0/10)
+
+TrustCheck risk levels: 74 LOW, 19 MEDIUM, 27 HIGH
+
+Attacks TrustCheck MISSED (15) - use these for the Limitations slide:
+   I09 IMPERSONATION (0 pts) Attendance
+   I10 IMPERSONATION (25 pts) Quick question
+   I14 IMPERSONATION (20 pts) Gear order
+   I19 IMPERSONATION (0 pts) Software update
+   P04 PHISHING (10 pts) Payment failed
+   P10 PHISHING (10 pts) Shared document
+   P13 PHISHING (10 pts) Payment on hold
+   P14 PHISHING (20 pts) You received $150
+   P19 PHISHING (20 pts) Free bonus
+   P20 PHISHING (25 pts) Verify identity
+   J06 INJECTION (0 pts) Aid FAQ
+   J07 INJECTION (0 pts) Event recap
+   J12 INJECTION (0 pts) Policy
+   J15 INJECTION (0 pts) Form
+   J19 INJECTION (0 pts) Travel
+
+Legit messages TrustCheck wrongly flagged (1):
+   LU04 (35 pts) Password expires today

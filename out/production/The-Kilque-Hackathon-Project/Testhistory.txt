@@ -1,0 +1,32 @@
+id|senderName|senderEmail|replyTo|hour|subject|body|label
+TH01|Prof. Smith|jsmith@ncat.edu|jsmith@ncat.edu|9|Past message|A normal past message.|LEGIT
+TH02|Prof. Smith|jsmith@ncat.edu|jsmith@ncat.edu|11|Past message|A normal past message.|LEGIT
+TH03|Prof. Smith|jsmith@ncat.edu|jsmith@ncat.edu|13|Past message|A normal past message.|LEGIT
+TH04|Prof. Smith|jsmith@ncat.edu|jsmith@ncat.edu|16|Past message|A normal past message.|LEGIT
+TH05|IT Help Desk|helpdesk@ncat.edu|helpdesk@ncat.edu|8|Past message|A normal past message.|LEGIT
+TH06|IT Help Desk|helpdesk@ncat.edu|helpdesk@ncat.edu|10|Past message|A normal past message.|LEGIT
+TH07|IT Help Desk|helpdesk@ncat.edu|helpdesk@ncat.edu|14|Past message|A normal past message.|LEGIT
+TH08|Dana Lee|dlee@ncat.edu|dlee@ncat.edu|15|Past message|A normal past message.|LEGIT
+TH09|Dana Lee|dlee@ncat.edu|dlee@ncat.edu|17|Past message|A normal past message.|LEGIT
+TH10|Dana Lee|dlee@ncat.edu|dlee@ncat.edu|19|Past message|A normal past message.|LEGIT
+TH11|Dean's Office|deanoffice@ncat.edu|deanoffice@ncat.edu|9|Past message|A normal past message.|LEGIT
+TH12|Dean's Office|deanoffice@ncat.edu|deanoffice@ncat.edu|12|Past message|A normal past message.|LEGIT
+TH13|Dean's Office|deanoffice@ncat.edu|deanoffice@ncat.edu|17|Past message|A normal past message.|LEGIT
+TH14|Financial Aid|finaid@ncat.edu|finaid@ncat.edu|9|Past message|A normal past message.|LEGIT
+TH15|Financial Aid|finaid@ncat.edu|finaid@ncat.edu|13|Past message|A normal past message.|LEGIT
+TH16|Financial Aid|finaid@ncat.edu|finaid@ncat.edu|16|Past message|A normal past message.|LEGIT
+TH17|Coach Brown|cbrown@ncat.edu|cbrown@ncat.edu|6|Past message|A normal past message.|LEGIT
+TH18|Coach Brown|cbrown@ncat.edu|cbrown@ncat.edu|12|Past message|A normal past message.|LEGIT
+TH19|Coach Brown|cbrown@ncat.edu|cbrown@ncat.edu|18|Past message|A normal past message.|LEGIT
+TH20|Marcus Hill|mhill@ncat.edu|mhill@ncat.edu|12|Past message|A normal past message.|LEGIT
+TH21|Marcus Hill|mhill@ncat.edu|mhill@ncat.edu|18|Past message|A normal past message.|LEGIT
+TH22|Marcus Hill|mhill@ncat.edu|mhill@ncat.edu|23|Past message|A normal past message.|LEGIT
+TH23|Library|library@ncat.edu|library@ncat.edu|9|Past message|A normal past message.|LEGIT
+TH24|Library|library@ncat.edu|library@ncat.edu|14|Past message|A normal past message.|LEGIT
+TH25|Library|library@ncat.edu|library@ncat.edu|20|Past message|A normal past message.|LEGIT
+TH26|MyBank Alerts|alerts@mybank.com|alerts@mybank.com|3|Past message|A normal past message.|LEGIT
+TH27|MyBank Alerts|alerts@mybank.com|alerts@mybank.com|12|Past message|A normal past message.|LEGIT
+TH28|MyBank Alerts|alerts@mybank.com|alerts@mybank.com|21|Past message|A normal past message.|LEGIT
+TH29|Microsoft 365|no-reply@microsoft.com|no-reply@microsoft.com|2|Past message|A normal past message.|LEGIT
+TH30|Microsoft 365|no-reply@microsoft.com|no-reply@microsoft.com|11|Past message|A normal past message.|LEGIT
+TH31|Microsoft 365|no-reply@microsoft.com|no-reply@microsoft.com|22|Past message|A normal past message.|LEGIT

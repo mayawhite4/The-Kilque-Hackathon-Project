@@ -1,0 +1,36 @@
+2026-11-13T23:55:21 | M001 | LOW | 0 pts | auto-cleared
+2026-11-13T23:55:21 | M002 | LOW | 0 pts | auto-cleared
+2026-11-13T23:55:21 | M003 | LOW | 0 pts | auto-cleared
+2026-11-13T23:55:21 | M004 | LOW | 0 pts | auto-cleared
+2026-11-13T23:55:21 | M005 | LOW | 0 pts | auto-cleared
+2026-11-13T23:56:01 | M001 | LOW | 0 pts | auto-cleared
+2026-11-13T23:56:01 | M002 | LOW | 0 pts | auto-cleared
+2026-11-13T23:56:01 | M003 | LOW | 0 pts | auto-cleared
+2026-11-13T23:56:01 | M004 | LOW | 0 pts | auto-cleared
+2026-11-13T23:56:01 | M005 | LOW | 0 pts | auto-cleared
+2026-11-13T23:56:03 | M006 | HIGH | 95 pts | confirmed suspicious by reviewer
+2026-11-13T23:57:13 | M007 | HIGH | 135 pts | APPEAL: marked legit by reviewer, baseline updated
+2026-11-14T00:19:06 | M001 | LOW | 0 pts | auto-cleared
+2026-11-14T00:19:06 | M002 | LOW | 0 pts | auto-cleared
+2026-11-14T00:19:06 | M003 | LOW | 0 pts | auto-cleared
+2026-11-14T00:19:06 | M004 | LOW | 0 pts | auto-cleared
+2026-11-14T00:19:06 | M005 | LOW | 0 pts | auto-cleared
+2026-11-14T00:19:34 | M001 | LOW | 0 pts | auto-cleared
+2026-11-14T00:19:34 | M002 | LOW | 0 pts | auto-cleared
+2026-11-14T00:19:34 | M003 | LOW | 0 pts | auto-cleared
+2026-11-14T00:19:34 | M004 | LOW | 0 pts | auto-cleared
+2026-11-14T00:19:34 | M005 | LOW | 0 pts | auto-cleared
+2026-11-14T00:25:02 | M001 | LOW | 0 pts | auto-cleared
+2026-11-14T00:25:02 | M002 | LOW | 0 pts | auto-cleared
+2026-11-14T00:25:02 | M003 | LOW | 0 pts | auto-cleared
+2026-11-14T00:25:02 | M004 | LOW | 0 pts | auto-cleared
+2026-11-14T00:25:02 | M005 | LOW | 0 pts | auto-cleared
+2026-11-14T00:25:40 | M006 | HIGH | 95 pts | confirmed suspicious by reviewer
+2026-11-14T00:25:42 | M007 | HIGH | 135 pts | APPEAL: marked legit by reviewer, baseline updated
+2026-11-14T00:26:32 | M001 | LOW | 0 pts | auto-cleared
+2026-11-14T00:26:32 | M002 | LOW | 0 pts | auto-cleared
+2026-11-14T00:26:32 | M003 | LOW | 0 pts | auto-cleared
+2026-11-14T00:26:32 | M004 | LOW | 0 pts | auto-cleared
+2026-11-14T00:26:32 | M005 | LOW | 0 pts | auto-cleared
+2026-11-14T00:59:42 | M007 | 135 pts | confirmed suspicious by reviewer
+2026-11-14T00:59:46 | M007 | 135 pts | APPEAL: marked legit by reviewer, baseline updated
